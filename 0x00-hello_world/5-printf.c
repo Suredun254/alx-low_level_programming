@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main -entry point of program
- *
+ *use of printf
  * Return -zero if no erros, otherwise non-zero
  */
 int main(void)
