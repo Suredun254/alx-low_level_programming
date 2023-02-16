@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
  * main -entry point of program
- *use of printf
- * Return -zero if no erros, otherwise non-zero
+ *
+ * Return: zero if no erros, non-zero if error
  */
 int main(void)
 {
