@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
- * main - entry point
+ * main is the entry point
  * Description: prints  if a number is positive or negative.
  * Return: 0
 /* betty style doc for function main goes there */
