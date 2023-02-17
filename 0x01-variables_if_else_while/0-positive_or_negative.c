@@ -1,13 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-<<<<<<< HEAD
 /*
- * main - entry point
-=======
-/* more headers goes there */
- * main is the entry point
->>>>>>> fc7fef0331525322ddf6552b5e057bad39adec42
+ *main is the entry point
  * Description: prints  if a number is positive or negative.
  * Return: 0
  */
@@ -30,4 +25,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
-}
+};
