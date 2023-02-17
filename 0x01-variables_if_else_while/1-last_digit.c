@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main - Entry point
- * Description: checks on the last digit of the assigned var
+ * prints last digit of random number,showing >5,<6,=0
+ * Description: checks on the last digit of the assigned variable m
  * Return 0 if complilation is successful
  */
 int main(void)
