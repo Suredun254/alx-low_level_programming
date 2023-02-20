@@ -1,21 +1,20 @@
 #include <stdio.h>
 #include<unistd.h>
-/*
- * main - is entry of my program
- * Description: prints all possinle combinations of digits
- * between 0 and 99 in ascending order
+/**
+ * main - prints all combinations of 2 digits between 0 and 99
+ *
  * Return: is 0 if succesful
  */
 int main(void)
 {
 	int a, b;
-	/* 
+	/**
 	 * loop through a,the first digit which is the lowest,
 	 * of the two digits and the highest possible is 8
 	 */
 	for (a = 0 ; a <= 8 ; a++)
 	{
-		/*
+		/**
 		 * loop through b, the second digit which is the higher,
 		 * than a by 1 and the highest possible is 9
 		 */
