@@ -17,14 +17,14 @@ void print_to_98(int num)
 		printf("%d", num);
 		printf(",");
 		printf(" ");
-		n++;
+		num++;
 	}
 	while (num > 98)
 	{
 		printf("%d", num);
 		printf(",");
 		printf(" ");
-		n--;
+		num--;
 	}
 	printf("98\n");
 }
